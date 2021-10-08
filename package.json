@@ -1,0 +1,22 @@
+{
+  "name": "example-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhshootsta/example-service.git"
+  },
+  "author": "benhshootsta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhshootsta/example-service/issues"
+  },
+  "homepage": "https://github.com/benhshootsta/example-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
