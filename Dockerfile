@@ -8,4 +8,3 @@ RUN npm install
 COPY . .
 EXPOSE 3000
 CMD [ "node", "app.js" ]
-ENTRYPOINT [ "/usr/local/bin/entrypoint" ]
