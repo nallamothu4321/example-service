@@ -2,6 +2,10 @@
     {
       "name": "myapp",
       "imageUri": "045882918372.dkr.ecr.ap-southeast-1.amazonaws.com/myapp:myapp"
+    },
+    {
+      "name": "SHOOTSTA_APP",
+      "imageUri": "045882918372.dkr.ecr.ap-southeast-1.amazonaws.com/myapp:myapp"
     }
   ]
 
